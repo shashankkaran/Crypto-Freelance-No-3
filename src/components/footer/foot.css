@@ -1,0 +1,17 @@
+.active{
+    /* background-color: white !important; */
+}
+.smmm{
+    position: relative;
+    left: 27%;
+    /* right: 50%; */
+}
+h2{
+    font-weight: bolder !important;
+    /* font-size: larger !important; */
+    font-size: x-large !important;
+}
+a{font-weight: bolder;}
+img{
+    background-color: aqua;
+}

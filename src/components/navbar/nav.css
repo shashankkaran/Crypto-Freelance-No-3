@@ -1,0 +1,104 @@
+
+body{
+  color: white !important;
+}
+.topmob{
+  /* visibility: hidden; */
+  /* display: none */
+}
+
+
+.css-ciy9n4-MuiPaper-root-MuiAppBar-root{
+    /* background-color: aliceblue !important; */
+    /* color: white !important ; */
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto Serif&display=swap');
+.css-jzk4qw-MuiPaper-root-MuiAppBar-root{
+    /* background-color: aliceblue !important; */
+    /* color: white !important ; */
+}
+
+.topsm{
+  /* position: relative;
+  left: 25%; */
+  display: none;
+}
+
+
+.css-yfo96e{
+  /* background-color: black !important; */
+  padding-bottom: 0 !important;
+}
+
+.navli{
+    display: inline;
+    float: right;
+    
+  }
+  a,p,h2,h1,h3,li{
+    font-family: 'Noto Serif' !important;
+    color: black !important;
+  }
+  .MuiPaper-root{
+    background-color: #FFE4E1 !important;
+    font-family: 'Noto Serif' !important;
+  }
+  .MuiTypography-root{
+    font-family: 'Noto Serif' !important;
+    font-weight: bolder !important;
+  }
+  .a{
+    
+    display: block;
+    padding: 0.6rem;
+    color: black;
+    /* background-color: #dddddd; */
+   
+  }
+  .a:hover,.active{
+   
+    
+   border-bottom: 3px solid black;
+
+    /* border: 2px solid #5a665d; */
+    
+  }
+  a:hover{
+    
+  color: black;
+
+  }
+  .active{
+    /* padding: .6rem; */
+    font-weight: bolder;
+    /* color: white; */
+    /* border-bottom: 2px solid white; */
+    
+  }
+
+  @media only screen and (max-width: 1000px) 
+  {
+      .navul{
+          display: none;
+      }
+      .topmob{
+       /* visibility: visible; */
+       display: none;
+      }
+      .topsm{
+        position: relative;
+        left: 20%;
+      }
+      
+   }
+   
+  @media only screen and (max-width: 600px){
+    .topsm{
+     display: none;
+    }
+  }
+
+ 
+
+   
